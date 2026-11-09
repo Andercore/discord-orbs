@@ -21,7 +21,7 @@ Discord Orbs is a Windows executable distributed through the
 2. Select **Advanced** in the left-hand menu.
 3. Turn on **Developer Mode**.
 
-![Discord Developer Mode tutorial](docs/developer-mode.png)
+![Discord Developer Mode tutorial](docs/developer-mode-guide.png)
 
 The image above shows the exact settings path. Discord may change the layout
 or wording of these options in future updates.
