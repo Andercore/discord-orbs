@@ -3,6 +3,10 @@
 I created Discord Orbs as a Windows executable and distribute it through the
 [Releases](../../releases) page.
 
+Discord Orbs is an automation tool for Discord quests. It completes Discord
+quests automatically instead of requiring me to complete each mission
+manually.
+
 > ⚠️ **Disclaimer:** I provide this project **as-is**. I wrote the original
 > code, but I am not responsible for account actions, data loss, damage, or any
 > other consequence resulting from its use. Use it at your own risk.
