@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/logo.svg" alt="Discord Orbs logo" width="160">
+</p>
+
 # 🔮 Discord Orbs
 
 I created Discord Orbs as a Windows executable and distribute it through the

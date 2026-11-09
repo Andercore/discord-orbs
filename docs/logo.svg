@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title">
+  <title>Discord Orbs logo</title>
+  <defs>
+    <clipPath id="orb">
+      <path d="M160 0 275 47q8 4 12 13l33 91q2 9-2 18l-39 99q-4 9-13 13l-96 39q-10 4-20 0l-96-39q-9-4-13-13L2 169q-4-9-1-18l39-91q4-9 13-13L150 1q5-2 10-1Z"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#orb)">
+    <path fill="#c77cf3" d="M0 0h160v160H0z"/>
+    <path fill="#fff" d="M160 0h160v160H160z"/>
+    <path fill="#74d9cf" d="M160 160h160v160H160z"/>
+    <path fill="#7a43f2" d="M0 160h160v160H0z"/>
+    <path fill="#ef4ce0" d="m0 160 160-160v160L0 320z"/>
+    <path fill="#3e43ed" d="m160 0 160 160-160 160z"/>
+  </g>
+  <path fill="#080b5c" d="m43 160 117-117 117 117-117 117z"/>
+  <path fill="#fff" d="M160 98c5 0 6 13 12 24 8 15 18 25 33 33 11 6 24 7 24 12s-13 6-24 12c-15 8-25 18-33 33-6 11-7 24-12 24s-6-13-12-24c-8-15-18-25-33-33-11-6-24-7-24-12s13-6 24-12c15-8 25-18 33-33 6-11 7-24 12-24Z"/>
+</svg>
