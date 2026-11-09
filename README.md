@@ -1,11 +1,11 @@
 # 🔮 Discord Orbs
 
-Discord Orbs is a Windows executable distributed through the
+I created Discord Orbs as a Windows executable and distribute it through the
 [Releases](../../releases) page.
 
-> ⚠️ **Disclaimer:** This project is provided **as-is**. The author created the
-> original code and is not responsible for account actions, data loss, damage,
-> or any other consequence resulting from its use. Use it at your own risk.
+> ⚠️ **Disclaimer:** I provide this project **as-is**. I wrote the original
+> code, but I am not responsible for account actions, data loss, damage, or any
+> other consequence resulting from its use. Use it at your own risk.
 
 ## ✅ Requirements
 
@@ -23,8 +23,8 @@ Discord Orbs is a Windows executable distributed through the
 
 ![Discord Developer Mode tutorial](docs/developer-mode-guide.png)
 
-The image above shows the exact settings path. Discord may change the layout
-or wording of these options in future updates.
+The image above shows the settings path I use. Discord may change the layout or
+wording of these options in future updates.
 
 ### 2️⃣ Run Discord Orbs
 
@@ -33,20 +33,20 @@ or wording of these options in future updates.
 3. Run the executable on your Windows computer.
 4. Follow any instructions displayed by the application.
 
-🔒 Only download executable files from releases published in this repository.
-Windows or antivirus software may show a warning for unsigned files. Review
-the release information before deciding whether to continue.
+🔒 Please download executable files only from releases published in this
+repository. Windows or antivirus software may show a warning for unsigned
+files, so review the release information before deciding whether to continue.
 
 ## 📦 Releases
 
-Executable files are distributed only through GitHub Releases. Prebuilt
-binaries are not committed to the main branch.
+I distribute executable files only through GitHub Releases. I do not commit
+prebuilt binaries to the main branch.
 
 ## 🚫 No modification or support promise
 
-The source code and release files are published for this project only. Do not
-modify, repackage, redistribute, or claim authorship of them. No warranty,
-maintenance commitment, or support promise is provided.
+I publish the source code and release files for this project only. Please do
+not modify, repackage, redistribute, or claim authorship of them. I do not
+provide a warranty, maintenance commitment, or support promise.
 
 ## 📄 License
 
